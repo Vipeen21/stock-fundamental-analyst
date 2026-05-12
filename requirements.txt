@@ -1,0 +1,11 @@
+streamlit==1.41.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+pandas==2.2.3
+pypdf==5.1.0
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+google-genai==1.74.0
+pydantic==2.10.4
+altair==5.5.0
+lxml==5.3.0
